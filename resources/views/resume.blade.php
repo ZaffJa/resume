@@ -56,7 +56,7 @@
             <span>Web & Mobile App Developer</span>
         </div> <!-- end .content -->
         <div class="text-right">
-            <a href="Resume%20-MOHD%20ZAFRI.pdf" class="button link-button white icon-left"><i class="md md-file-download"></i>Download Resume</a>
+            <a href="Resume%20-MOHD%20ZAFRI.pdf" target="_blank" class="button link-button white icon-left"><i class="md md-file-download"></i>Download Resume</a>
         </div> <!-- end .text-right -->
     </header> <!-- end .slide-out-header -->
     <div class="slide-out-widgets">
@@ -109,7 +109,7 @@
         <a href="#section7" class="available"><i class="ion-ios-email-outline"></i><span>Available For Freelance</span></a>
         <div class="right-icons">
             <a href="" class="open-search header-open-search"></a>
-            <a href="/Resume%20-MOHD%20ZAFRI.pdf" class="download"><i class="md md-file-download"></i></a>
+            <a href="/Resume%20-MOHD%20ZAFRI.pdf" target="_blank" class="download"><i class="md md-file-download"></i></a>
             <a href="" class="share"><i class="md md-more-vert"></i></a>
         </div> <!-- end .right-icons -->
         <!-- Popup -->
@@ -169,7 +169,7 @@
                             there's work for me to do.</p>
                         <p class="button-row">
                             <a href="#section7" class="button solid-button white available">Hire Me Now</a>
-                            <a href="/Resume%20-MOHD%20ZAFRI.pdf" class="button solid-button purple">Download CV</a></p>
+                            <a href="/Resume%20-MOHD%20ZAFRI.pdf" target="_blank" class="button solid-button purple">Download CV</a></p>
                     </div> <!-- end .col-sm-7 -->
                     <div class="col-sm-5 vertical-center">
                         <img src="images/zafri_new.png" alt="man" class="img-responsive section-img">
