@@ -8,7 +8,7 @@
     <title>Mohd Zafri Zulkipli</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    {{--<link href="css/bootstrap.min.css" rel="stylesheet">--}}
     <!-- Material Design Icons -->
     <link href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" rel="stylesheet">
     <!-- Font Awesome -->
@@ -16,10 +16,11 @@
     <!-- Ionicons -->
     <link href="fonts/ionicons/css/ionicons.min.css" rel="stylesheet">
     <!-- Owl Carousel -->
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.theme.default.css" rel="stylesheet">
+    {{--<link href="css/owl.carousel.css" rel="stylesheet">--}}
+    {{--<link href="css/owl.theme.default.css" rel="stylesheet">--}}
     <!-- Style.css -->
-    <link href="css/style.min.css" rel="stylesheet">
+    {{--<link href="css/style.min.css" rel="stylesheet">--}}
+    <link rel="stylesheet" href="css/all.css">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -534,26 +535,27 @@
     </div> <!-- end .footer -->
 </footer> <!-- end .footer -->
 
-<!-- jQuery -->
-<script src="js/jquery-1.11.2.min.js"></script>
-<!-- Bootstrap -->
-<script src="js/bootstrap.min.js"></script>
-<!-- Inview -->
-<script src="js/jquery.inview.min.js"></script>
-<!-- SmoothScroll -->
-<script src="js/smoothscroll.js"></script>
-<!-- jQuery Knob -->
-<script src="js/jquery.knob.min.js"></script>
-<!-- Owl Carousel -->
-<script src="js/owl.carousel.min.js"></script>
-<!-- Isotope -->
-<script src="js/isotope.pkgd.min.js"></script>
-<!-- Images Loaded -->
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<!-- google maps -->
+{{--<!-- jQuery -->--}}
+{{--<script src="js/jquery-1.11.2.min.js"></script>--}}
+{{--<!-- Bootstrap -->--}}
+{{--<script src="js/bootstrap.min.js"></script>--}}
+{{--<!-- Inview -->--}}
+{{--<script src="js/jquery.inview.min.js"></script>--}}
+{{--<!-- SmoothScroll -->--}}
+{{--<script src="js/smoothscroll.js"></script>--}}
+{{--<!-- jQuery Knob -->--}}
+{{--<script src="js/jquery.knob.min.js"></script>--}}
+{{--<!-- Owl Carousel -->--}}
+{{--<script src="js/owl.carousel.min.js"></script>--}}
+{{--<!-- Isotope -->--}}
+{{--<script src="js/isotope.pkgd.min.js"></script>--}}
+{{--<!-- Images Loaded -->--}}
+{{--<script src="js/imagesloaded.pkgd.min.js"></script>--}}
+{{--<!-- google maps -->--}}
 {{--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>--}}
-<!-- Scripts.js -->
-<script src="js/scripts.min.js"></script>
+{{--<!-- Scripts.js -->--}}
+{{--<script src="js/scripts.min.js"></script>--}}
+<script src="js/all.js"></script>
 
 </body>
 </html>
