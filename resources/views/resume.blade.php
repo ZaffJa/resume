@@ -86,7 +86,7 @@
                     </div> <!-- end .col-sm-9 -->
                 </div> <!-- end .form-group -->
                 <div class="contact-loading alert alert-info form-alert">
-                    <span class="message">Loading...</span>
+                    <span class="message">Sending...</span>
                     <button type="button" class="close" data-hide="alert" aria-label="Close"><i class="fa fa-times"></i></button>
                 </div>
                 <div class="contact-success alert alert-success form-alert">
@@ -485,7 +485,7 @@
                                 </div> <!-- end .col-sm-10 -->
                             </div> <!-- end .form-group -->
                             <div class="contact-loading alert alert-info form-alert">
-                                <span class="message">Loading...</span>
+                                <span class="message">Sending...</span>
                                 <button type="button" class="close" data-hide="alert" aria-label="Close"><i
                                             class="fa fa-times"></i></button>
                             </div>
