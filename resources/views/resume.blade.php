@@ -12,14 +12,14 @@
     <!-- Material Design Icons -->
     <link href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- Ionicons -->
     <link href="fonts/ionicons/css/ionicons.min.css" rel="stylesheet">
     <!-- Owl Carousel -->
     <link href="css/owl.carousel.css" rel="stylesheet">
     <link href="css/owl.theme.default.css" rel="stylesheet">
     <!-- Style.css -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.min.css" rel="stylesheet">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -553,7 +553,7 @@
 <!-- google maps -->
 {{--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>--}}
 <!-- Scripts.js -->
-<script src="js/scripts.js"></script>
+<script src="js/scripts.min.js"></script>
 
 </body>
 </html>
