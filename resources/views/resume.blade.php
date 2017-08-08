@@ -29,28 +29,6 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <!-- jQuery -->
-    <script src="js/jquery-1.11.2.min.js"></script>
-    <!-- Bootstrap -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Inview -->
-    <script src="js/jquery.inview.min.js"></script>
-    <!-- SmoothScroll -->
-    <script src="js/smoothscroll.js"></script>
-    <!-- jQuery Knob -->
-    <script src="js/jquery.knob.min.js"></script>
-    <!-- Owl Carousel -->
-    <script src="js/owl.carousel.min.js"></script>
-    <!-- Isotope -->
-    <script src="js/isotope.pkgd.min.js"></script>
-    <!-- Images Loaded -->
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <!-- google maps -->
-{{--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>--}}
-<!-- Scripts.js -->
-    <script src="js/scripts.js"></script>
-
-
 </head>
 <body>
 <!-- Slide Out -->
@@ -555,5 +533,27 @@
         </div> <!-- end .container -->
     </div> <!-- end .footer -->
 </footer> <!-- end .footer -->
+
+<!-- jQuery -->
+<script src="js/jquery-1.11.2.min.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Inview -->
+<script src="js/jquery.inview.min.js"></script>
+<!-- SmoothScroll -->
+<script src="js/smoothscroll.js"></script>
+<!-- jQuery Knob -->
+<script src="js/jquery.knob.min.js"></script>
+<!-- Owl Carousel -->
+<script src="js/owl.carousel.min.js"></script>
+<!-- Isotope -->
+<script src="js/isotope.pkgd.min.js"></script>
+<!-- Images Loaded -->
+<script src="js/imagesloaded.pkgd.min.js"></script>
+<!-- google maps -->
+{{--<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>--}}
+<!-- Scripts.js -->
+<script src="js/scripts.js"></script>
+
 </body>
 </html>
