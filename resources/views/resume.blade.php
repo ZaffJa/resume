@@ -419,7 +419,7 @@
                     <div class="item">
                         <div class="marker"></div>
                         <div class="content">
-                            <span>Univesiti Teknologi Malaysia</span>
+                            <span>Universiti Teknologi Malaysia</span>
                             <h4>Bachelor of Science Computer</h4>
                         </div>
                         <div class="year">2013 - 2017</div>
